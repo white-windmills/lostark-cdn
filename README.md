@@ -1,4 +1,4 @@
-# LostArk中文论坛CDN文件
+# ✨ LostArk中文论坛CDN文件
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/white-windmills/lostark-cdn?label=repo%20size&logo=github&style=plastic)
 
